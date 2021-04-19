@@ -4,6 +4,6 @@
 2. [Tutorial 2:](https://nbviewer.jupyter.org/github/kalyaninagaraj/ML-Tutorials-Using-FluxML/blob/main/MNIST%20TUTORIAL%202-%20Multi-Class%20Classification%20Using%20Flux.jl.ipynb) Multi-Class Classification on MNIST data
 
 ## Resources
-1. [FluxML main website](https://fluxml.ai/)
-2. [Flux.jl documentation](https://fluxml.ai/Flux.jl/stable/)
+1. [Flux](https://fluxml.ai/) (website)
+2. [Flux.jl](https://fluxml.ai/Flux.jl/stable/) (documentation)
 3. [Flux Model Zoo](https://github.com/FluxML/model-zoo), a repository of ML examples and demonstrations
