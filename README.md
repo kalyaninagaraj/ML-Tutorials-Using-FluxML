@@ -1,7 +1,7 @@
 # Machine Learning Tutorials using Flux.jl 
 
-[Tutorial 1: Principal Component Analysis on MNIST data](https://nbviewer.jupyter.org/github/kalyaninagaraj/ML-Tutorials-Using-FluxML/blob/main/MNIST%20TUTORIAL%201%20-%20Principal%20Component%20Analysis%20on%20MNIST%20data.ipynb) 
-[Tutorial 2: Multi-Class Classification on MNIST data](https://nbviewer.jupyter.org/github/kalyaninagaraj/ML-Tutorials-Using-FluxML/blob/main/MNIST%20TUTORIAL%202-%20Multi-Class%20Classification%20Using%20Flux.jl.ipynb)
+1. [Tutorial 1:](https://nbviewer.jupyter.org/github/kalyaninagaraj/ML-Tutorials-Using-FluxML/blob/main/MNIST%20TUTORIAL%201%20-%20Principal%20Component%20Analysis%20on%20MNIST%20data.ipynb) Principal Component Analysis on MNIST data
+2. [Tutorial 2:](https://nbviewer.jupyter.org/github/kalyaninagaraj/ML-Tutorials-Using-FluxML/blob/main/MNIST%20TUTORIAL%202-%20Multi-Class%20Classification%20Using%20Flux.jl.ipynb) Multi-Class Classification on MNIST data
 
 ## Resources
 1. [FluxML main website](https://fluxml.ai/)
